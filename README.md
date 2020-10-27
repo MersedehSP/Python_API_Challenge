@@ -1,7 +1,7 @@
 ## Python_API_Challenge
 ![Equator](Images/equatorsign.png)
 
-##WeatherPy Code:
+## WeatherPy Code:
 
 This code will create a set of random lat and lng combinations, puts them in a datframe. Then it Performs a weather check on each city using a series of successive API calls. you can see the city name printing as it's being processed.
 It then will extract the information : City_ID, City_ame, Cloudiness, Country, Date,Humidity, Latitude and longitude, Maximim Temperature and Wind Speed and save them in lists. then it will make a final dataframe with those list and saves it as CSV.
@@ -24,7 +24,7 @@ then there is a linear regression function that can be used for these type of an
 * Southern Hemisphere - Wind Speed (mph) vs. Latitude Linear Regression
 
 
-##VacationPy
+## VacationPy Code:
 
 This code will take the CVS generated from WeatherPy and generates a heatmap.
 
